@@ -6,6 +6,7 @@
 NewPing sonar(TRIG_PIN, ECHO_PIN, MAX_DISTANCE); 
 Servo myservo;   
 
+
 int distance = 100;
 
 // Motor A 
