@@ -1,12 +1,12 @@
 #######################################
-# Syntax Coloring Map For KoLo_khair
+# Syntax Coloring Map For sabaho
 #######################################
 
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
 
-KoLo_khair	KEYWORD1
+sabaho	KEYWORD1
 MDNS	KEYWORD1
 
 #######################################
