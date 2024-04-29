@@ -1,12 +1,12 @@
 #######################################
-# Syntax Coloring Map For fa3el_khar
+# Syntax Coloring Map For KoLo_khair
 #######################################
 
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
 
-fa3el_khar	KEYWORD1
+KoLo_khair	KEYWORD1
 MDNS	KEYWORD1
 
 #######################################
