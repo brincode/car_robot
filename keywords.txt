@@ -6,7 +6,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-sabaho	KEYWORD1
+CaRopot	KEYWORD1
 MDNS	KEYWORD1
 
 #######################################
